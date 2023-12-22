@@ -2,13 +2,10 @@
 
 ## Frontend 
 
-2 postes ouverts 
+Un poste ouvert 
 
 Un chez Newsbridge, orienté tech lead (H/F) #Angular 
 https://www.build-rh.com/job_offers/senior-software-engineer-frontend-newsbridge/
-
-Un chez Tarmac Technologie - Développeur frontend (H/F) #React #ReactNative #TypeScript 
-https://www.build-rh.com/job_offers/developpeur-frontend-h-f-2/
 
 Ils sont full remote 
 
